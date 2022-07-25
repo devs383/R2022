@@ -7,6 +7,7 @@ public class Test {
 	
 	public static boolean test(String s1,String s2) {
 		boolean flag=false;
+            //hhhh
 		if(s1.equals(s2)) {
 			
 			return true;
